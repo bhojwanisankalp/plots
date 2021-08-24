@@ -7,3 +7,4 @@ To intall this application.
 4. Make migrations using "python manage.py makemigrations charts".
 5. Apply migrations using "python manage.py migrate".
 6. Runserver using "python manage.py runserver".
+7. Browse url http://localhost:8000.
